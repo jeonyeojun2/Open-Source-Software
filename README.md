@@ -42,5 +42,11 @@
 <hr/>
 
 # 3. 🎥 시연영상, 사진
-[회원 관리 시연 영상](https://youtu.be/nFnwH8joYUs)
+### [회원 관리 시연 영상](https://youtu.be/nFnwH8joYUs)
+### DB 사진
+<img src="https://github.com/user-attachments/assets/ac144dc1-4e84-463d-be97-458ef85fbb5f" width="400" height="300" />
+<img src="https://github.com/user-attachments/assets/9763a96e-b468-499b-aaa9-1d8e4efb2953" width="600" height="300" />
+<img src="https://github.com/user-attachments/assets/9d7d484b-460c-4e4e-9bf6-5ab4617e15dd" width="450" height="300" />
+
+### 신뢰도 평가
 <img src="https://github.com/user-attachments/assets/2e558199-c915-4522-98b0-8a4746102ac4" width="600" height="250" />
