@@ -42,5 +42,5 @@
 <hr/>
 
 # 3. 🎥 시연영상, 사진
-[회원 관리 시연 영상](https://youtu.be/Hv-4qzf1J9g)
-![image](https://github.com/user-attachments/assets/2e558199-c915-4522-98b0-8a4746102ac4)
+[회원 관리 시연 영상](https://youtu.be/nFnwH8joYUs)
+<img src="https://github.com/user-attachments/assets/2e558199-c915-4522-98b0-8a4746102ac4" width="600" height="250" />
