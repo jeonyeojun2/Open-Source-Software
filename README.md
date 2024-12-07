@@ -1,8 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&height=300&color=gradient&text=Open%20Source%20Software-nl-Term%20Project&textBg=false&fontSize=50&fontAlign=50)
 ## 23102466 전여준
-# 목차
+# 프로젝트 소개
 - [회원관리](#회원-관리)
 - [AI를 활용한 리뷰 신뢰도 평가](#AI를-활용한-리뷰-신뢰도-평가)
+- [시연영상, 사진](#시연-영상)
 
 <hr/>
   
@@ -38,3 +39,8 @@
 - 네이버 리뷰, 쿠팡 리뷰를 크롤링해 데이터베이스를 만든다
 - OpenAI api를 사용해 리뷰의 신뢰성을 판단한다
 - 각 리뷰의 신뢰도를 5점 만점으로 평가한다
+
+
+
+# 3. 시연영상, 사진
+
