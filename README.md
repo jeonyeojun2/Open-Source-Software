@@ -15,6 +15,7 @@
 <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/typescript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 
 ### 🛠 구조
+![image](https://github.com/user-attachments/assets/2970e281-346b-4cf8-b7cc-7bdc4986d9f4)
 
 ### 🚀 기능
 #### 😃 로그인
