@@ -4,7 +4,8 @@
 - [회원관리](#회원-관리)
 - [AI를 활용한 리뷰 신뢰도 평가](#AI를-활용한-리뷰-신뢰도-평가)
 - [시연영상, 사진](#시연-영상)
-- [라이센스](#라이센스스)
+- [라이센스](#라이센스)
+- [참고 자료](#참고자료)
 
 <hr/>
   
@@ -32,7 +33,7 @@
 
 # 2. AI를 활용한 리뷰 신뢰도 평가
 ### 🛠 기술스택
-<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/openai-%23412991.svg?&style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" /> ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) <img src="https://img.shields.io/badge/openai-%23412991.svg?&style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
 ### 🛠 구조
 ### 🚀 기능
 #### 😃 크롤링
@@ -56,4 +57,8 @@
 <hr/>
 
 # 4. 라이센스
-BSD license
+BSD license를 따릅니다.
+
+<hr/>
+
+# 5. 참고 자료
